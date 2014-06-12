@@ -1,4 +1,4 @@
 GitFlowtest
 ===========
 
-test
+test 2
